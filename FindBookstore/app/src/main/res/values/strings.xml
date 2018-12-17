@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">우리 마을 서점 찾기</string>
+    <string name="Retrieve">가져오기</string>
+    <string name="PleaseWait">가져오는 중입니다.</string>
+    <string name="Unsuccessful">성공 못함.</string>
+    <string name="Unsuccessful_category">카테고리 정보 가져오지 못함.</string>
+    <string name="no_info">정보가 없습니다.</string>
+    <string name="name_bookstore">서점이름</string>
+    <string name="cate_bookstore">서점종류</string>
+    <string name="address_bookstore">서점주소</string>
+    <string name="ex_bookstore">서점설명</string>
+    <string name="location_bookstore">서점위치</string>
+
+    <string name="menu_refresh">메뉴 새로고침</string>
+
+    <string name="success">서점 올리기 성공!</string>
+
+    <string name="success_button">다음으로 넘어가기</string>
+
+    <string name="choose_picture">위 이미지를 설치하시면, 이미지를 선택할 수 있는 화면으로 이동합니다.</string>
+
+    <string name="go_to_main_text">처음으로 다시가기</string>
+
+    <string name="numberofBookStorefinded">등록된 서점수 | </string>
+    <string name="mygpsinfo">나의현재위치</string>
+
+</resources>
